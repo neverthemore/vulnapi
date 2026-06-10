@@ -9,7 +9,7 @@ import java.util.Random;
 @Service
 public class AuthService {
 
-    private static final String API_KEY = "sk-test-super-secret-key";
+    private static final String API_KEY =  "ghp_1234567890abcdefghijklmnopqrstuvwxyz";
 
     public String login(String username, String password) {
 
